@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AcromineRestService_AdamWisecarver</string>
+    <string name="item_name">Name: %s</string>
+    <string name="item_freq">Frequency: %s</string>
+    <string name="item_since">Year: %s</string>
+    <string name="item_vars">Show Variations</string>
+    <string name="enter_abbreviation">Enter abbreviation</string>
+    <string name="search_abbreviation">Search</string>
+    <string name="close">Close</string>
+    <string name="no_numbers_input">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>
